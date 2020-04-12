@@ -5,6 +5,7 @@ class Person:
 
   def printname(self):
     print(self.firstname, self.lastname)
+    print("ModifiedVersion")
    
 #Use the Person CLASS to create an instance, and then execute the printname method:
 
