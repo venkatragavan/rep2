@@ -10,6 +10,6 @@ class Person:
 #Use the Person CLASS to create an instance, and then execute the printname method:
 
 
-p = Person("Johnny", "Venkat")
+p = Person("Sivaprakash", "Venkat")
 
 p.printname()
