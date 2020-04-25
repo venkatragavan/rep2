@@ -8,9 +8,8 @@ class Person:
        
 #Use the Person CLASS to create an instance, and then execute the printname method:
 
-=======
-
 #Modified to demo the jenkin job schedule for remote github commit 
+
 print("Demonstrate the webhook trigger")
 
 p = Person("Sivaprakash", "Venkatragavan")
